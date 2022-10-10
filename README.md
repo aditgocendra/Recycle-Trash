@@ -13,12 +13,12 @@ git clone https://github.com/aditgocendra/assignment_order.git
 2. Setup database in root-project/database/db.go:
 ```sh
 var (
-	host     = "YOUR-HOST"
-	user     = "YOUR-USERNAME-DB"
-	password = "YOUR-PASSWORD-DB"
-	dbPort   = "5432"
-	dbName   = "orders_by"
-	db       *gorm.DB
-	err      error
+    host     = "YOUR-HOST"
+    user     = "YOUR-USERNAME-DB"
+    password = "YOUR-PASSWORD-DB"
+    dbPort   = "5432"
+    dbName   = "orders_by"
+    db       *gorm.DB
+    err      error
 )
 ```
