@@ -6,4 +6,6 @@ This API service is built using [Golang](https://go.dev/) with [gin-gonic](https
 ## Instalation
 
 2. Download swag by using:
-```shgo install github.com/swaggo/swag/cmd/swag@latest```
+```sh
+go install github.com/swaggo/swag/cmd/swag@latest
+```
