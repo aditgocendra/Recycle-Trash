@@ -27,3 +27,10 @@ var (
 ```sh
 go run main.go
 ```
+## Documentation
+
+You can see the endpoint documentation :
+```sh
+[go run main.go](http://localhost:8080/swagger/index.html)
+```
+
