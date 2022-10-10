@@ -10,7 +10,7 @@ This API service is built using [Golang](https://go.dev/) with [gin-gonic](https
 git clone https://github.com/aditgocendra/assignment_order.git
 ```
 
-2. Setup database in root-project/database/db.go:
+2. Setup your database postgreesql in root-project/database/db.go:
 ```sh
 var (
     host     = "YOUR-HOST"
