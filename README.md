@@ -22,3 +22,8 @@ var (
     err      error
 )
 ```
+
+3. Run project:
+```sh
+go run main.go
+```
