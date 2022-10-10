@@ -5,7 +5,7 @@ This API service is built using [Golang](https://go.dev/) with [gin-gonic](https
 
 ## Instalation
 
-2. Download swag by using:
+1. Download this project with [git](https://git-scm.com/):
 ```sh
-go install github.com/swaggo/swag/cmd/swag@latest
+git clone https://github.com/aditgocendra/assignment_order.git
 ```
