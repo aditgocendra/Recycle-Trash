@@ -27,10 +27,10 @@ var (
 ```sh
 go run main.go
 ```
-## Documentation
+## Documentation Endpoint API
 
-You can see the endpoint documentation :
+After you install, You can see the documentation of the endpoints that are automatically generated with swagger :
 ```sh
-[go run main.go](http://localhost:8080/swagger/index.html)
+http://localhost:8080/swagger/index.html
 ```
 
